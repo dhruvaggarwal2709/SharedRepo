@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="logs">
+				<Prp name="key" type="S" value="{135C1A53-21FB-42B6-B7E3-5881F60825B6}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables">
+				<Node name="datav4">
+					<Node name="var0">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4100750074006F005400650073007400760046004100630073006F00"/>
+						</Node>
+						<Prp name="name" type="S" value="UserName"/>
+					</Node>
+					<Node name="var1">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="38003900360031003100330044003100460034004400380037003300460034003600430039004200430037003900370044004100460044003600330037004400380045003100460045003200370042004200340030003300320043003600430030004300430038004400330030003300330032004100440039003200390043003300300041003500"/>
+						</Node>
+						<Prp name="name" type="S" value="Password"/>
+					</Node>
+					<Node name="var2">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4100750074006F0054006500730074003100360039003400360030003100380036003700320030003200400067006D00610069006C002E0063006F006D00"/>
+						</Node>
+						<Prp name="name" type="S" value="UserEmailID"/>
+					</Node>
+					<Node name="var3">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4100750074006F005400650073007400490052004400770057006B00"/>
+						</Node>
+						<Prp name="name" type="S" value="UserFirstName"/>
+					</Node>
+					<Node name="var4">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4100750074006F00540065007300740051007800590049004E004C00"/>
+						</Node>
+						<Prp name="name" type="S" value="UserLastName"/>
+					</Node>
+				</Node>
+				<Prp name="version" type="I" value="4"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+	</Node>
+</Nodes>

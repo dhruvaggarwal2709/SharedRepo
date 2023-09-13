@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{348A0B94-E9B8-4A61-833A-61159284B985}">
+	<children>
+		<child name="HollandAndBarretWebAutomation" key="{AADA79C2-A034-4330-9B70-0B9BCFDF0AAF}" path="HollandAndBarretWebAutomation\HollandAndBarretWebAutomation.mds" />
+	</children>
+	<testItems key="{22A79A8D-40C2-4D60-B925-0EC816130503}">
+		<children>
+			<testItem key="{AADA79C2-A034-4330-9B70-0B9BCFDF0AAF}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{1ED77E65-C851-432F-9C40-69A10A2F0909}" />
+	<analysis key="{3DCCFCFA-3A40-445A-9F2C-F96BBFD11DDC}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

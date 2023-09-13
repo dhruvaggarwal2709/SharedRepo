@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{C0557D0A-88FD-4B7D-A86B-CB1D7613440A}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{57FA0C7B-696E-42CD-A69B-8348CE04CBAC}">
+						<TypeInfo Item0="{F8A65760-FD3B-4846-9D7D-184416E7B87C}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+							<Property Name="ObjectIdentifier">
+								<Value Value="chrome" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageHollandBarrett" Key="{4A555EA7-AE12-496C-9D4C-B80729C2D12E}">
+								<Image FileName="1605862019" Left="11" Top="117" Right="1931" Bottom="1030" />
+								<TypeInfo Item0="{37BB51AB-8073-4860-AC4A-06859A1C33C3}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.hollandandbarrett.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelCookieConsentWrapper" Key="{3ACBACAF-4580-4747-9175-267C166BAC60}" ExtendedFind="True">
+										<Image FileName="2058642524" Left="11" Top="303" Right="1906" Bottom="303" />
+										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="cookie-consent-wrapper" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelYourCookieSettings" Key="{9C5C7073-06A2-4C53-9BC9-D8464E2D015D}">
+												<Image FileName="28860898" Left="11" Top="117" Right="1906" Bottom="1031" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelYourCookieSettings" Key="{EAC591F6-34E2-47A6-B0F5-DC927AC5BD1E}">
+														<Image FileName="-1431031456" Left="149" Top="481" Right="1769" Bottom="667" />
+														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="contentText">
+																<Value Value="59006F0075007200200043006F006F006B00690065002000530065007400740069006E00670073000A0054006800690073002000730069007400650020007500730065007300200063006F006F006B00690065007300200074006F00200069006D00700072006F0076006500200079006F0075007200200065007800700065007200690065006E00630065002E00200054006800650079002000680065006C007000200075007300200074006F00200075006E006400650072007300740061006E006400200068006F0077002000700065006F0070006C0065002000750073006500200074006800650020007700650062007300690074006500200061006E00640020006700690076006500200075007300200074006800650020006100620069006C00690074007900200074006F002000700072006F00760069006400650020007400610072006700650074006500640020006D00610072006B006500740069006E006700200074006F00200079006F0075002E000A004D0061006E00610067006500200063006F006F006B006900650073000A00590065007300200049002000610063006300650070007400" Type="7" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="buttonYesIAccept" Key="{9CE5E26C-33D8-45C5-8D2F-8EA9141B491C}">
+																<Image FileName="1740151398" Left="1454" Top="533" Right="1724" Bottom="616" />
+																<TypeInfo Item0="{EA4C6FC8-BE1D-4311-B58A-E1474E1CA192}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value Value="cookie-consent-accept" />
+																	</Property>
+																	<Property Name="ObjectLabel">
+																		<Value Value="Yes I accept" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="headerHollandBarrett" Key="{712EBDF8-C301-4A54-963B-90AE2A419BCE}" ExtendedFind="True">
+										<Image FileName="1282520020" Left="11" Top="117" Right="1906" Bottom="303" />
+										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Header" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelHollandBarrett" Key="{28B7B1C1-C97C-47D4-862B-D7443BA7A8E7}" ExtendedFind="True">
+												<Image FileName="-2074318802" Left="11" Top="117" Right="1906" Bottom="249" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="48006F006C006C0061006E00640020002600200042006100720072006500740074000A005300650061007200630068000A004100630063006F0075006E0074000A005300690067006E00200069006E000A004E0065007700200063007500730074006F006D00650072003F000A0043007200650061007400650020006100630063006F0075006E0074000A00530074006F007200650073000A0052006500770061007200640073000A00480065006C0070000A005300650061007200630068000A004200610073006B0065007400" Type="7" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="panelHollandBarrett2" Key="{357F4777-D28E-4863-B37F-AE10E662748D}">
+												<Image FileName="-587104347" Left="11" Top="117" Right="1906" Bottom="303" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelHollandBarrett" Key="{E91E2255-A2D4-4308-9001-82F10C904208}">
+														<Image FileName="-230154154" Left="11" Top="117" Right="1906" Bottom="302" />
+														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="nodeName">
+																<Value Value="DIV" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelHollandBarrett" Key="{4C04743E-E5DC-4E13-BB56-E934A46C28BB}">
+																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="className">
+																		<Value Value="HeaderTop-module--desktop-*" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="sectionHollandBarrett" Key="{5D3CEEEB-D73E-40DC-BEA2-DD79E256C08A}" ExtendedFind="True">
+																		<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Section" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelAccount" Key="{9ED7EE55-155B-4DB5-AFDA-E219D4711A21}" ExtendedFind="True">
+																				<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Panel" />
+																					</Property>
+																					<Property Name="contentText">
+																						<Value Value="4100630063006F0075006E0074000A00530074006F007200650073000A0052006500770061007200640073000A00480065006C0070000A005300650061007200630068000A004200610073006B0065007400" Type="7" />
+																					</Property>
+																					<Property Name="tagName">
+																						<Value Value="DIV" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="linkRewards" Key="{93589254-7691-45EF-B466-2BF0C768E59B}" ExtendedFind="True">
+																		<TypeInfo Item0="{7A49E722-82E0-474D-A62F-FD90EDF9A64B}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Link" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value Value="Rewards" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="btnAccountHomeScreen" Key="{1B86158F-7C2F-4BFD-97D2-C871F0E20345}" ExtendedFind="True">
+																		<Image FileName="716131322" Left="1422" Top="152" Right="1518" Bottom="213" />
+																		<TypeInfo Item0="{EA4C6FC8-BE1D-4311-B58A-E1474E1CA192}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value Value="Account" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="txtNodeHelloUser" Key="{AAFD95B6-D72E-4FAD-8870-0335F7E1710C}" ExtendedFind="True">
+																		<Image FileName="1525503833" Left="1328" Top="188" Right="1506" Bottom="213" />
+																		<TypeInfo Item0="{AA669DB6-161A-4FA1-8D4D-47C0E7F8092D}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextNode" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value Value="Hello*" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="textnodeBasket" Key="{A7236630-96B2-4B81-846C-DD44AA9BA686}" ExtendedFind="True">
+																		<Image FileName="536528306" Left="1772" Top="188" Right="1831" Bottom="213" />
+																		<TypeInfo Item0="{AA669DB6-161A-4FA1-8D4D-47C0E7F8092D}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextNode" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value Value="Basket" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="panelVitaminsSupplements" Key="{3B87EFE0-8DFA-4131-9365-BCF4174D4BD7}" ExtendedFind="True">
+																<Image FileName="1871992289" Left="11" Top="249" Right="1906" Bottom="302" />
+																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelVitaminsSupplements" Key="{27687F56-3069-429F-8D67-2495448D772F}">
+																		<Image FileName="-1906774442" Left="44" Top="249" Right="1874" Bottom="302" />
+																		<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Panel" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="sectionVitaminsSupplements" Key="{5A5F9DAD-5D57-4AC6-9701-A1332E02A8E0}" ExtendedFind="True">
+																				<Image FileName="1405878653" Left="74" Top="249" Right="1844" Bottom="302" />
+																				<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Section" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="naviagationBarProducts" Key="{BF3403CC-C53E-4A5B-BEB8-79ADD5C18640}" ExtendedFind="True">
+																						<Image FileName="1563137345" Left="62" Top="249" Right="1856" Bottom="302" />
+																						<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Nav" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="linkVitaminsSupplements" Key="{552D581C-C6AD-4E68-B237-BE055492B3BA}">
+																								<Image FileName="-673155841" Left="62" Top="249" Right="332" Bottom="302" />
+																								<TypeInfo Item0="{7A49E722-82E0-474D-A62F-FD90EDF9A64B}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Link" />
+																									</Property>
+																									<Property Name="contentText">
+																										<Value Value="Vitamins &amp; Supplements" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="linkVitaminA" Key="{9DD19BAC-FC39-48AF-956D-26AAA7EC7489}" ExtendedFind="True">
+																								<Image FileName="-2105533742" Left="672" Top="463" Right="948" Bottom="492" />
+																								<TypeInfo Item0="{3028C128-D0CE-48CA-8242-AC96E81BE532}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Link" />
+																									</Property>
+																									<Property Name="contentText">
+																										<Value Value="Vitamin A" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="panel" Key="{9874A91E-E5D3-4845-96F9-5F67C7325404}">
+																								<Image FileName="-924006857" Left="11" Top="117" Right="11" Bottom="117" />
+																								<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Panel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="0" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="panelShopAllVitaminsSupplements" Key="{F578D16A-DF87-4DF7-8981-D3D616BE25E6}">
+																										<Image FileName="-1763498666" Left="11" Top="117" Right="11" Bottom="117" />
+																										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Panel" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panelShopAllVitaminsSupplements" Key="{2CDB2C39-6A48-4932-A369-AEDC2843B1D2}">
+																												<Image FileName="-934068825" Left="11" Top="117" Right="11" Bottom="117" />
+																												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Panel" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelShopAllVitaminsSupplementsPanel2" Key="{E729B285-FBAC-4FB8-8066-FFF6505883FF}">
+																														<Image FileName="-635977209" Left="11" Top="117" Right="11" Bottom="117" />
+																														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Panel" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="panelCbdOilCapsules" Key="{3BEC783B-E863-4866-B8DB-762C49833157}">
+																																<Image FileName="1383670281" Left="11" Top="117" Right="11" Bottom="117" />
+																																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="Panel" />
+																																	</Property>
+																																	<Property Name="contentText">
+																																		<Value Value="CBD Oil &amp; Capsules*" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="panel2" Key="{6DFD6EB9-D802-4675-AD5B-AEF3B695C0BF}" ExtendedFind="True">
+																								<Image FileName="-373280727" Left="11" Top="117" Right="11" Bottom="117" />
+																								<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Panel" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="panelShopAllFoodDrink" Key="{50F02234-94F2-41D6-8604-52A41377C004}">
+																										<Image FileName="-760872856" Left="11" Top="117" Right="11" Bottom="117" />
+																										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Panel" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panelShopAllFoodDrink" Key="{7D8CE99A-A1E9-403C-AC3B-BECEBDF4E8C1}">
+																												<Image FileName="1546127160" Left="11" Top="117" Right="11" Bottom="117" />
+																												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Panel" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelShopAllFoodDrink" Key="{019D26CD-F00F-4BD2-919F-52855456A3A4}">
+																														<Image FileName="1553588169" Left="11" Top="117" Right="11" Bottom="117" />
+																														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="Panel" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="panelSnacks" Key="{C2A513C8-64FE-4258-BDE0-A7EE65B2A9AE}">
+																																<Image FileName="489445480" Left="11" Top="117" Right="11" Bottom="117" />
+																																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value Value="Panel" />
+																																	</Property>
+																																	<Property Name="contentText">
+																																		<Value Value="53006E00610063006B0073000A00430068006F0063006F006C006100740065002C002000430061006B0065007300200026002000420069007300630075006900740073000A005300750067006100720020004600720065006500200053006E00610063006B0073000A00520061007700200053006E00610063006B0073000A00430072006900730070007300200026002000430068006900700073000A005300610076006F00750072007900200053006E00610063006B0073000A0053006E00610063006B00200042006100720073000A0046006C00610070006A00610063006B0073000A0053007700650065007400200053006E00610063006B0073000A004D0075006C00740069007000610063006B0073000A00530068006100720069006E006700200042006100670073000A0043006F0063006F006E00750074000A0052006900630065002C002000500061007300740061002C002000500075006C0073006500730020002600200047007200610069006E0073000A0052006900630065000A00500061007300740061000A004E006F006F0064006C00650073000A00500075006C007300650073000A0047007200610069006E007300" Type="7" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="buttonSignOut" Key="{AFD900BC-134F-4D7C-9F3E-F3DA50A0625B}" ExtendedFind="True">
+																				<Image FileName="954809710" Left="1291" Top="570" Right="1373" Bottom="599" />
+																				<TypeInfo Item0="{ED52BFBF-32F1-474C-810E-F4B46F6BFE99}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="contentText">
+																						<Value Value="Sign Out" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="articleCreateAnAccount" Key="{C52E51F9-8828-4099-A409-EF63991E3CF8}" ExtendedFind="True">
+										<Image FileName="-1455668793" Left="515" Top="122" Right="1403" Bottom="1823" />
+										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Article" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="userForm" Key="{4B7415E2-1A2A-447A-BB7A-182EFEB331DB}" ExtendedFind="True">
+												<Image FileName="1992314940" Left="515" Top="200" Right="1403" Bottom="1639" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Form" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="fieldsetFirstName" Key="{1602E384-EA91-4F5E-B610-EE07B2452A97}" ExtendedFind="True">
+														<Image FileName="-544720711" Left="515" Top="303" Right="1403" Bottom="474" />
+														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Textbox" />
+															</Property>
+															<Property Name="ObjectLabel">
+																<Value Value="First name" />
+															</Property>
+															<Property Name="idStr">
+																<Value Value="firstName" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="txtBoxFirstName" Key="{8A4E5751-113C-43C2-B5BC-7F006C74CB33}" ExtendedFind="True">
+																<Image FileName="2065481183" Left="515" Top="361" Right="935" Bottom="428" />
+																<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Textbox" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value Value="firstName" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="txtBoxLastName" Key="{A57EC03D-2D99-40C3-9A73-854E93953BE8}" ExtendedFind="True">
+																<Image FileName="-192468903" Left="983" Top="361" Right="1403" Bottom="428" />
+																<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Textbox" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value Value="lastName" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="inpuEmailAddress" Key="{48AD79E3-7C48-4FBD-98BA-E16C079EE3EB}" ExtendedFind="True">
+														<Image FileName="1670027410" Left="515" Top="498" Right="1403" Bottom="565" />
+														<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="EmailInput" />
+															</Property>
+															<Property Name="idStr">
+																<Value Value="email" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="pwdboxCreateAPassword" Key="{9AAB848E-197A-4F2F-B347-069AC9D24B72}" ExtendedFind="True">
+														<Image FileName="-2037120568" Left="515" Top="510" Right="1403" Bottom="577" />
+														<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+														<Properties>
+															<Property Name="idStr">
+																<Value Value="password" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="password" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btnCreateAnAccount" Key="{25C82C54-76C6-447E-B1C5-90B42CA4BACF}" ExtendedFind="True">
+														<Image FileName="1321765916" Left="515" Top="713" Right="1403" Bottom="785" />
+														<TypeInfo Item0="{EA4C6FC8-BE1D-4311-B58A-E1474E1CA192}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="contentText">
+																<Value Value="Create an account" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="InputConfirmEmailAddress" Key="{6FC31E50-5785-4765-AEC5-B453B64CB1C2}" ExtendedFind="True">
+														<Image FileName="-2050315377" Left="609" Top="831" Right="1309" Bottom="888" />
+														<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="EmailInput" />
+															</Property>
+															<Property Name="idStr">
+																<Value Value="confirmEmail" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="txtAccountCreated" Key="{9A1EEDDE-F5CB-4785-BE88-35F4EC405E59}" ExtendedFind="True">
+												<Image FileName="-868510420" Left="515" Top="778" Right="1403" Bottom="826" />
+												<TypeInfo Item0="{AA669DB6-161A-4FA1-8D4D-47C0E7F8092D}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Account created" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="txtPasswordError" Key="{747F078A-4380-42E5-9E42-6CD761F15EAB}" ExtendedFind="True">
+												<Image FileName="227098274" Left="515" Top="514" Right="823" Bottom="534" />
+												<TypeInfo Item0="{AA669DB6-161A-4FA1-8D4D-47C0E7F8092D}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Password does not meet requirements" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="txtPassWordMatchError" Key="{EFB597F8-5CDE-4815-A191-47CF6552A76A}" ExtendedFind="True">
+												<Image FileName="-742033259" Left="515" Top="576" Right="701" Bottom="596" />
+												<TypeInfo Item0="{AA669DB6-161A-4FA1-8D4D-47C0E7F8092D}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Passwords must match" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelNext" Key="{93C31B68-BAFB-48E5-853E-07C51B36F918}" ExtendedFind="True">
+										<Image FileName="1494483211" Left="11" Top="-538" Right="1906" Bottom="2258" />
+										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="__next" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelHollandBarrett" Key="{196FB02C-1EED-4BFA-884D-FE6BDAFF0266}">
+												<Image FileName="-609500372" Left="11" Top="-538" Right="1906" Bottom="2258" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelSpendAnExtra102ToGetFree" Key="{476F525E-1959-4CFF-8C1C-EE0AC7C2F535}">
+														<Image FileName="1638730821" Left="44" Top="-277" Right="1874" Bottom="2081" />
+														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelYourBasket" Key="{9E937116-03AD-4F64-A54C-12714C26BB95}">
+																<Image FileName="-1383419129" Left="74" Top="266" Right="1844" Bottom="414" />
+																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textnodeYourBasket" Key="{0AD3ED76-B385-4C95-85CE-8E343553050F}">
+																		<Image FileName="-1319387195" Left="104" Top="326" Right="1814" Bottom="384" />
+																		<TypeInfo Item0="{AA669DB6-161A-4FA1-8D4D-47C0E7F8092D}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextNode" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value Value="Your basket" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="panel" Key="{067D709B-597D-403C-A54F-B8A6B21DB419}">
+																<Image FileName="-171084548" Left="74" Top="76" Right="1844" Bottom="1541" />
+																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="3" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panel" Key="{E416AD8F-4E73-4B71-84A7-B7487AC85013}">
+																		<Image FileName="-424655487" Left="74" Top="76" Right="1318" Bottom="1143" />
+																		<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Panel" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="section" Key="{B48254AA-F626-46E4-ACDF-5B7015F775A7}">
+																				<Image FileName="905064842" Left="74" Top="76" Right="1318" Bottom="1143" />
+																				<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Section" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelRoot" Key="{863084D2-B699-40EF-8D99-2CBBF39AD2D6}" ExtendedFind="True">
+										<Image FileName="-1254053451" Left="9" Top="-3412" Right="1908" Bottom="3629" />
+										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="_root_" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel10Off25Or15Off35" Key="{F17826A4-96EA-4E68-A9F8-9E5B51161F77}">
+												<Image FileName="-1254053451" Left="9" Top="-3412" Right="1908" Bottom="-3205" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelAccount" Key="{7B3F9125-587B-4DC9-B5DE-5EB3C9CE550F}">
+														<Image FileName="-1254053451" Left="9" Top="-3359" Right="1908" Bottom="-3205" />
+														<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelAccount" Key="{7BA6C632-E711-4F7F-BEF0-934A508205A2}">
+																<Image FileName="1312528802" Left="9" Top="108" Right="1908" Bottom="216" />
+																<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value Value="43006C006F00730065000A004100630063006F0075006E0074000A005300690067006E00200049006E000A004E0065007700200043007500730074006F006D00650072003F000A0043007200650061007400650020004100630063006F0075006E0074000A00530074006F007200650073000A0052006500770061007200640073000A005200650077006100720064007300200046006F00720020004C006900660065000A004A006F0069006E00200074006F00640061007900200061006E00640020007700650027006C006C0020006700690076006500200079006F0075000A00330030003000200070006F0069006E0074007300200077006F007200740068002000A30033002E00300030000A005300690067006E00200049006E000A00460069006E00640020006F007500740020006D006F00720065000A00480065006C0070000A004200610073006B0065007400" Type="7" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="navmyRewards" Key="{C51123FA-D03B-493B-B2D0-83F18851FB8A}" ExtendedFind="True">
+																		<Image FileName="352266610" Left="1492" Top="138" Right="1555" Bottom="185" />
+																		<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Nav" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="AuthenticationPage" Key="{314F9F91-0DE1-45CD-9329-CC6AF2DA4C1D}">
+								<Image FileName="646890055" Left="11" Top="117" Right="1931" Bottom="1030" />
+								<TypeInfo Item0="{37BB51AB-8073-4860-AC4A-06859A1C33C3}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://auth.hollandandbarrett.com/u/login*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionMyAccount" Key="{74A8BB1D-E15E-4A2A-8EF4-FB20C696E503}" ExtendedFind="True">
+										<Image FileName="-691759385" Left="659" Top="147" Right="1259" Bottom="859" />
+										<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="loginForm" Key="{090A3FD4-6975-4E8F-818A-03CAF05D31E7}" ExtendedFind="True">
+												<Image FileName="-1256248438" Left="683" Top="473" Right="1235" Bottom="811" />
+												<TypeInfo Item0="{EC29FC2D-A7E9-47BB-9439-B0B7F846D5E7}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Form" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="txtBoxEmailAddress" Key="{83A875DD-31D0-47D0-B109-8F0ABA2C624B}" ExtendedFind="True">
+														<Image FileName="-341800612" Left="683" Top="473" Right="1235" Bottom="551" />
+														<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Textbox" />
+															</Property>
+															<Property Name="idStr">
+																<Value Value="username" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="pwdboxPassword" Key="{92D73EAD-DD5F-4FFF-A6AD-37CBB3684D62}" ExtendedFind="True">
+														<Image FileName="275220901" Left="684" Top="570" Right="1168" Bottom="648" />
+														<TypeInfo Item0="{E4CE374E-9267-4DC2-940D-9B0EA9EADDFB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="PasswordBox" />
+															</Property>
+															<Property Name="idStr">
+																<Value Value="password" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="btnSignIn" Key="{ED6F3A86-E99F-45AF-9ACA-23AA8F86B2A2}" ExtendedFind="True">
+												<Image FileName="1830166036" Left="683" Top="876" Right="1235" Bottom="954" />
+												<TypeInfo Item0="{EA4C6FC8-BE1D-4311-B58A-E1474E1CA192}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Sign In" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{57FA0C7B-696E-42CD-A69B-8348CE04CBAC}">
+			<Child Name="pageHollandBarrett" Owner="{4A555EA7-AE12-496C-9D4C-B80729C2D12E}">
+				<Child Name="panelCookieConsentWrapper" Owner="{3ACBACAF-4580-4747-9175-267C166BAC60}">
+					<Child Name="btnAcceptCookiesConscent" Owner="{9CE5E26C-33D8-45C5-8D2F-8EA9141B491C}" />
+				</Child>
+				<Child Name="headerHollandBarrett" Owner="{712EBDF8-C301-4A54-963B-90AE2A419BCE}">
+					<Child Name="panelHollandBarrett" Owner="{4C04743E-E5DC-4E13-BB56-E934A46C28BB}">
+						<Child Name="sectionHollandBarrett" Owner="{5D3CEEEB-D73E-40DC-BEA2-DD79E256C08A}" />
+						<Child Name="linkRewards" Owner="{93589254-7691-45EF-B466-2BF0C768E59B}" />
+						<Child Name="btnAccountHomeScreen" Owner="{1B86158F-7C2F-4BFD-97D2-C871F0E20345}" />
+						<Child Name="txtNodeHelloUser" Owner="{AAFD95B6-D72E-4FAD-8870-0335F7E1710C}" />
+						<Child Name="textnodeBasket" Owner="{A7236630-96B2-4B81-846C-DD44AA9BA686}" />
+					</Child>
+					<Child Name="sectionProducts" Owner="{5A5F9DAD-5D57-4AC6-9701-A1332E02A8E0}">
+						<Child Name="naviagationBarProducts" Owner="{BF3403CC-C53E-4A5B-BEB8-79ADD5C18640}">
+							<Child Name="linkVitaminsSupplements" Owner="{552D581C-C6AD-4E68-B237-BE055492B3BA}" />
+							<Child Name="linkVitaminA" Owner="{9DD19BAC-FC39-48AF-956D-26AAA7EC7489}" />
+							<Child Name="panelShopAllVitaminsSupplementsPanel2" Owner="{E729B285-FBAC-4FB8-8066-FFF6505883FF}" />
+							<Child Name="panelCbdOilCapsules" Owner="{3BEC783B-E863-4866-B8DB-762C49833157}" />
+							<Child Name="panelSnacks" Owner="{C2A513C8-64FE-4258-BDE0-A7EE65B2A9AE}" />
+						</Child>
+					</Child>
+					<Child Name="buttonSignOut" Owner="{AFD900BC-134F-4D7C-9F3E-F3DA50A0625B}" />
+				</Child>
+				<Child Name="articleCreateAnAccount" Owner="{C52E51F9-8828-4099-A409-EF63991E3CF8}">
+					<Child Name="userForm" Owner="{4B7415E2-1A2A-447A-BB7A-182EFEB331DB}">
+						<Child Name="fieldsetFirstName" Owner="{1602E384-EA91-4F5E-B610-EE07B2452A97}">
+							<Child Name="txtBoxFirstName" Owner="{8A4E5751-113C-43C2-B5BC-7F006C74CB33}" />
+							<Child Name="txtBoxLastName" Owner="{A57EC03D-2D99-40C3-9A73-854E93953BE8}" />
+						</Child>
+						<Child Name="inpuEmailAddress" Owner="{48AD79E3-7C48-4FBD-98BA-E16C079EE3EB}" />
+						<Child Name="pwdboxCreateAPassword" Owner="{9AAB848E-197A-4F2F-B347-069AC9D24B72}" />
+						<Child Name="pwdBoxConfirmPassword" Owner="{5E5E8360-847C-4268-BC74-6AC46788740E}" />
+						<Child Name="btnCreateAnAccount" Owner="{25C82C54-76C6-447E-B1C5-90B42CA4BACF}" />
+						<Child Name="InputConfirmEmailAddress" Owner="{6FC31E50-5785-4765-AEC5-B453B64CB1C2}" />
+					</Child>
+					<Child Name="txtAccountCreated" Owner="{9A1EEDDE-F5CB-4785-BE88-35F4EC405E59}" />
+					<Child Name="txtPasswordError" Owner="{747F078A-4380-42E5-9E42-6CD761F15EAB}" />
+					<Child Name="txtPassWordMatchError" Owner="{EFB597F8-5CDE-4815-A191-47CF6552A76A}" />
+				</Child>
+				<Child Name="panelNext" Owner="{93C31B68-BAFB-48E5-853E-07C51B36F918}">
+					<Child Name="textnodeYourBasket" Owner="{0AD3ED76-B385-4C95-85CE-8E343553050F}" />
+					<Child Name="section" Owner="{B48254AA-F626-46E4-ACDF-5B7015F775A7}" />
+				</Child>
+				<Child Name="panelAccount" Owner="{7B3F9125-587B-4DC9-B5DE-5EB3C9CE550F}">
+					<Child Name="panelAccount" Owner="{7BA6C632-E711-4F7F-BEF0-934A508205A2}">
+						<Child Name="navmyRewards" Owner="{C51123FA-D03B-493B-B2D0-83F18851FB8A}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="AuthenticationPage" Owner="{314F9F91-0DE1-45CD-9329-CC6AF2DA4C1D}">
+				<Child Name="sectionMyAccount" Owner="{74A8BB1D-E15E-4A2A-8EF4-FB20C696E503}">
+					<Child Name="loginForm" Owner="{090A3FD4-6975-4E8F-818A-03CAF05D31E7}">
+						<Child Name="txtBoxEmailAddress" Owner="{83A875DD-31D0-47D0-B109-8F0ABA2C624B}" />
+						<Child Name="pwdboxPassword" Owner="{92D73EAD-DD5F-4FFF-A6AD-37CBB3684D62}" />
+					</Child>
+					<Child Name="btnSignIn" Owner="{ED6F3A86-E99F-45AF-9ACA-23AA8F86B2A2}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

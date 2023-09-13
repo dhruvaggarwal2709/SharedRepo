@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="GeneralFunctions" key="{96768ED1-94EE-4D78-8F53-621B78D5C954}" path="GeneralFunctions.js" />
+		<child name="AppSpecificFunctions" key="{C083C651-1355-4F6B-BFC0-79CA20971018}" path="AppSpecificFunctions.js" />
+		<child name="DriverFunctions" key="{5F9CAC2F-028D-4419-9B1B-857D200FD1F4}" path="DriverFunctions.js" />
+	</children>
+</Root>
